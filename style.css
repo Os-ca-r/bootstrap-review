@@ -30,6 +30,18 @@ body {
 }
 .feature ul li {
     padding-left:2rem;
-    background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Plus_font_awesome.svg/1024px-Plus_font_awesome.svg.png);
+    background-image: url(plus-solid.svg);
     background-repeat:no-repeat;
+    line-height: 1.5rem;
+    margin-bottom:1rem;
+}
+.icon {
+    color:#fff;
+    height:5rem;
+    width:5rem;
+    font-size:1.75rem;
+    border-radius: 100%;
+    display:inline-flex;
+    align-items:center;
+    justify-content: center;
 }
