@@ -45,3 +45,22 @@ body {
     align-items:center;
     justify-content: center;
 }
+.gallery {
+    background-color: aliceblue;
+}
+.gallery img {
+    border-radius: 5%;
+}
+.services {
+    color:rgb(14, 16, 158);
+}
+footer {
+    color:rgb(14, 16, 158);
+    font-size:1rem;
+    margin: 0;
+    padding: 1rem;
+}
+a {
+    color:#fff;
+    text-decoration: none;
+}
