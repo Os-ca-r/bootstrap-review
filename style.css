@@ -67,5 +67,12 @@ a {
 .likepictures {
     height: 100px;
     width: 250px;
-    background-color:white
+    background-color:white;
+    
+}
+.life  {
+    width:500px;
+}
+.email {
+    height:400px
 }
